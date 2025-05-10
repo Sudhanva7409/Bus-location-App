@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "687783017217",
+    "project_id": "vitap-bus-live-tracking",
+    "storage_bucket": "vitap-bus-live-tracking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687783017217:android:12823d34220eaf9a6c7900",
+        "android_client_info": {
+          "package_name": "com.example.vitapbuslivetracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687783017217-fv4ehvhpbp64pvq4jkit2g0nmcs0i7fc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgo_ZPV2dhQq9EtFMeH7Ji9WepISkzPOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687783017217-fv4ehvhpbp64pvq4jkit2g0nmcs0i7fc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
